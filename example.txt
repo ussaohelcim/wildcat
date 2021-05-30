@@ -1,0 +1,2 @@
+Hi, im a text inside in a .txt file.
+See you later, bye!
